@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Ajay",
+      "email": "A@gmail.com",
+      "phone": "9856785459"
+    },
+    {
+      "id": 2,
+      "name": "Ashvini",
+      "email": "R@gmail.com",
+      "phone": "8767788999"
+    },
+    {
+      "id": 3,
+      "name": "Rani",
+      "email": "P@gmail.com",
+      "phone": "6778798980"
+    },
+    {
+      "id": 4,
+      "name": "Neha",
+      "email": "N@gmail.com",
+      "phone": "9778798987"
+    },
+    {
+      "id": 5,
+      "name": "Jeesha",
+      "email": "P@gmail.com",
+      "phone": "9778798980"
+    },
+    {
+      "id": 6,
+      "name": "Vani",
+      "email": "P@gmail.com",
+      "phone": "8778798978"
+    }
+  ]
+}
